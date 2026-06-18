@@ -1,0 +1,123 @@
+body
+{
+background-color:white;
+}
+
+h1
+{
+font-size: 80px;
+text-align:center;
+margin: 30px 0px 30px 60px;
+}
+
+p.p1,p.p2,p.p3
+{
+color: red;
+font-size: 40px;
+margin: 0px 0px 20px 200px;
+}
+
+h2
+{
+margin: 80px 0px 0px 200px;
+font-size: 45px;
+}
+
+p
+{
+margin: 0px 0px 0px 200px;
+font-size: 45px;
+}
+
+tr.r1
+{
+background-color:darkcyan;
+color:white;
+font-size: 60px;
+font-style:inherit;
+}
+ 
+tr
+{
+background-color:rgb(173, 230, 228);
+font-size: 40px;
+}
+
+td
+{
+  padding:2px 250px 2px 8px;
+}
+
+table
+{
+    margin: 25px 100px 100px 200px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td
+{
+    border: 1px solid black;
+}
+
+h1.con
+{
+ font-size: 60px;
+ text-align:center;
+ padding: 0px 0px 0px 60px;
+}
+
+.info
+{
+    width: 1100px;
+    margin: 1px 100px 100px 250px;
+    background-color: lightgreen;
+    border-radius: 70px;
+    padding: 2px 0px 30px 0px;
+}
+
+.con
+{
+    text-align: center;
+    
+}
+
+.tab1
+{
+    border: none;
+    margin: 15px 40px 10px 130px;
+   
+}
+
+.tab1 td
+{
+    border: none;
+    padding: 15px 60px 10px 3px;
+    font-size: 40px;
+    background-color: lightgreen;
+}
+
+.td1
+{
+    width: 600px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
+
+.td2
+{
+    width: 600px;
+    height: 120px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn
+{
+    width: 220px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 35px;
+}
